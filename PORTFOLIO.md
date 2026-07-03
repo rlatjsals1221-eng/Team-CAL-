@@ -230,13 +230,8 @@ calpeace/
 
 ## 💡 나의 기여 (역할)
 
-> *(이 항목은 본인 기여도에 맞게 수정하세요)*
-
-- **백엔드**: Spring Boot API 설계 및 구현 (스케줄, 급여, 대타, QR 출퇴근, 사용자 인증)
-- **AI 서버**: FastAPI 서버 설계, YOLO 비전 파이프라인 구현, LLM 연동 (OpenAI/Gemini)
-- **프론트엔드**: React 어드민 대시보드 UI 구현, AI 인사이트 시각화
 - **모바일**: React Native 앱 화면 구현, QR 출퇴근 기능
-- **인프라**: Oracle Cloud ATP 연결 설정, Supabase Storage 연동
+- **인프라**: Supabase Storage 연동
 
 ---
 
